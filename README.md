@@ -32,7 +32,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
-📝 **Bases de Datos:** &emsp; 
+📝 **Bases de Datos:** &emsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -41,65 +41,37 @@
 
 <!-- Cuatro Proyectos ----------------------------------------------->
 
+<p align="center">
 <table>
-  <tr>
-    <td width="50%">
-		<h3 align="center">Proyecto en construcción I</h3>
-		<div align="center">
-			<p>
-			<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-			&emsp; 
-			<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
-			</p>
-			<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/fcomontsep/refs/heads/main/img/thumbnail_in_progress.png" width="400"></a>
-			<br><br>
-			<p>Este proyecto se encuentra en construcción. Eventualmente será lanzado al público.</p>                                                     
-		</div>                                                   
-	</td>  
-	<td width="50%">
-		<h3 align="center">Proyecto en construcción II</h3>
-		<div align="center">
-			<p>
-			<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-			&emsp; 
-			<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
-			</p>
-			<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/fcomontsep/refs/heads/main/img/thumbnail_in_progress.png" width="400"></a>
-			<br><br>
-			<p>Este proyecto se encuentra en construcción. Eventualmente será lanzado al público.</p>                                                     
-		</div>                                                   
-</table>                  
-<br>
-
-<table>
-  <tr>
-    <td width="50%">
-		<h3 align="center">Proyecto en construcción III</h3>
-		<div align="center">
-			<p>
-			<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-			&emsp; 
-			<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
-			</p>
-			<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/fcomontsep/refs/heads/main/img/thumbnail_in_progress.png" width="400"></a>
-			<br><br>
-			<p>Este proyecto se encuentra en construcción. Eventualmente será lanzado al público.</p>                                                     
-		</div>                                                   
-	</td>  
-	<td width="50%">
-		<h3 align="center">Proyecto en construcción IV</h3>
-		<div align="center">
-			<p>
-			<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
-			&emsp; 
-			<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
-			</p>
-			<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/fcomontsep/refs/heads/main/img/thumbnail_in_progress.png" width="400"></a>
-			<br><br>
-			<p>Este proyecto se encuentra en construcción. Eventualmente será lanzado al público.</p>                                                     
-		</div>                                                   
-</table>                  
-<br>
+	<tr>
+		<td width="50%">
+			<h3 align="center">Universidad del Valle</h3>
+			<div align="center">
+				<p>
+				<a href="https://github.com/fcomontsep/portafolio-js-landing-uni" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
+				&emsp; 
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
+				</p>
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-uni/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
+				<br><br>
+				<p>Página de aterrizaje para un sitio web universitario. HTML, CSS, JS, diseño responsivo. Desplegado en GitHub Pages.</p>                                                     
+			</div>                                                   
+		</td>  
+		<td width="50%">
+			<h3 align="center">Proyecto en Construcción</h3>
+			<div align="center">
+				<p>
+				<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
+				&emsp; 
+				<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
+				</p>
+				<a href="https://github.com/" target="_blank"><img src="img/thumbnail_in_progress.png" width="400"></a>
+				<br><br>
+				<p>Este proyecto se encuentra en construcción. Será publicado dentro de poco.</p>                                                     
+			</div>                                                   
+	</table>                       
+	<br>
+</p>
 
 <!-- Github Analytics ----------------------------------------------->
 
