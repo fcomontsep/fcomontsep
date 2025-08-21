@@ -58,16 +58,16 @@
 			</div>                                                   
 		</td>  
 		<td width="50%">
-			<h3 align="center">Proyecto en Construcción</h3>
+			<h3 align="center">Sabrozzo Coctelería</h3>
 			<div align="center">
 				<p>
-				<a href="https://github.com/fcomontsep" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
+				<a href="https://github.com/fcomontsep/portafolio-js-landing-coctel" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
 				&emsp; 
-				<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-0077B5?style=for-the-badge&logo=searxng&logoColor=white"></a>
 				</p>
-				<a href="https://github.com/" target="_blank"><img src="img/thumbnail_in_progress.png" width="400"></a>
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-coctel/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
 				<br><br>
-				<p>Este proyecto se encuentra en construcción. Será publicado dentro de poco.</p>                                                     
+				<p>Página de aterrizaje para un sitio web de coctelería. HTML, CSS, JS, diseño responsivo. Desplegado en GitHub Pages.</p>                                                     
 			</div>                                                   
 	</table>                       
 	<br>
