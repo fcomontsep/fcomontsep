@@ -1,7 +1,7 @@
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
-      <h1> ¡ Hola, soy <a href="https://github.com/fcomontsep">Francisco Montenegro</a>  ! 💻💾👋  </h1>
+      <h1> ¡ Hola, soy <a href="https://www.linkedin.com/in/fcomontsep/">Francisco Montenegro</a>  ! 💻💾👋  </h1>
     </summary>
   </ul>
 </div>
@@ -11,13 +11,14 @@
   
   Como experiencias destaco distintos proyectos tanto individuales como colaborativos, incluyendo el desarrollo de **tableros estadísticos**, clasificación de radiografías mediante **inteligencia artificial** y desarrollo **full stack** de sistemas asociados a la recuperación de suelos contaminados. Soy creativo a la hora de resolver problemas, y cuento con afinidad al trabajo en equipo y liderazgo.
   
-  En esta página encontrarás distintos trabajos y proyectos que he **realizado y registrado en la plataforma Github**.
-  <hr>
+  En esta página encontrarás distintos trabajos y proyectos que he **realizado y registrado en la plataforma GitHub**.
 </div>
+
+<hr>
 
 <!-- Capacidades ----------------------------------------------->
 
-💬 **Lenguajes:** &emsp; 
+💬 **Lenguajes:** &emsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23ed9e00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -31,13 +32,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-⚙️ **Frameworks:** &emsp; 
+⚙️ **Frameworks:** &emsp;
 ![Django](https://img.shields.io/badge/django-%23008080.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-3199DC?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
 
 <hr>
 
@@ -47,7 +45,7 @@
 <table>
 	<tr>
 		<td width="50%">
-			<h3 align="center">Universidad del Valle</h3>
+			<h3 align="center"><i>Diseño Web</i><br>"Universidad del Valle"</h3>
 			<div align="center">
 				<p>
 				<a href="https://github.com/fcomontsep/portafolio-js-landing-uni" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -56,11 +54,12 @@
 				</p>
 				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-uni/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
 				<br><br>
-				<p>Página de aterrizaje para un sitio web universitario. HTML, CSS, JS, diseño responsivo. Desplegado en GitHub Pages.</p>                                                     
+				<p>Página de aterrizaje para un sitio universitario.
+				<br>HTML, CSS, JS responsivo. Desplegado en GitHub Pages.</p>                                                     
 			</div>                                                   
 		</td>  
 		<td width="50%">
-			<h3 align="center">Sabrozzo Coctelería</h3>
+			<h3 align="center"><i>Diseño Web</i><br>"Sabrozzo Coctelería"</h3>
 			<div align="center">
 				<p>
 				<a href="https://github.com/fcomontsep/portafolio-js-landing-coctel" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-0077B5?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -69,7 +68,8 @@
 				</p>
 				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-coctel/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
 				<br><br>
-				<p>Página de aterrizaje para un sitio web de coctelería. HTML, CSS, JS, diseño responsivo. Desplegado en GitHub Pages.</p>                                                     
+				<p>Página de aterrizaje para un sitio de coctelero.
+				<br>HTML, CSS, JS, responsivo. Desplegado en GitHub Pages.</p>                                                     
 			</div>                                                   
 	</table>                       
 	<br>
