@@ -19,7 +19,7 @@
 <!-- Capacidades ----------------------------------------------->
 
 💬 **Lenguajes:** &emsp;
-![HTML](https://img.shields.io/badge/html-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E54C21.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23edb500.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -27,8 +27,8 @@
 
 📝 **Bases de Datos:** &emsp;
 ![OracleDB](https://img.shields.io/badge/Oracle_DB-C74634.svg?style=for-the-badge&logo=oculus&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-F29209.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-087F41?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ⚙️ **Frameworks y Librerías:** &emsp;
