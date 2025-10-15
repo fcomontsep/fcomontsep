@@ -21,8 +21,8 @@
 <p align="center">
   <table>
     <tr style="background-color: transparent;">
-      <td><strong>💬 Lenguajes de Programación:</strong></td>
-      <td>
+      <td width="275px"><strong>💬 Lenguajes de Programación: </strong></td>
+      <td width="575px">
         <img src="https://img.shields.io/badge/html-%23E54C21.svg?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-%23EDB500.svg?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white">
