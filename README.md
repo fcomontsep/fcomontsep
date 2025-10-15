@@ -20,7 +20,7 @@
 
 <p align="center">
   <table>
-    <tr>
+    <tr style="background-color: transparent;">
       <td><strong>💬 Lenguajes de Programación:</strong></td>
       <td>
         <img src="https://img.shields.io/badge/html-%23E54C21.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: transparent;">
       <td><strong>📝 Bases de Datos:</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Oracle_DB-C74634.svg?style=for-the-badge&logo=oculus&logoColor=white">
@@ -39,14 +39,13 @@
         <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: transparent;">
       <td><strong>⚙️ Frameworks y Librerías:</strong></td>
       <td>
         <img src="https://img.shields.io/badge/laravel/BLADE-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
         <img src="https://img.shields.io/badge/django-%23064B35.svg?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/tailwind-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/livewire-%234C53A1.svg?style=for-the-badge&logo=livewire&logoColor=white">
-        <img src="https://img.shields.io/badge/bootstrap-%238312FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
       </td>
     </tr>
   </table>
