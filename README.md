@@ -63,7 +63,7 @@
 				&emsp; 
 				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-3C444F?style=for-the-badge&logo=searxng&logoColor=white"></a>
 				</p>
-				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-uni/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-uni/" target="_blank"><img src="https://i.imgur.com/45cDVXV.jpg" width="400"></a>
 				<br><br>
 				<p>Página de aterrizaje para un sitio universitario.
 				<br>HTML, CSS, JS responsivo. Desplegado en GitHub Pages.</p>                                                     
@@ -77,7 +77,7 @@
 				&emsp; 
 				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://img.shields.io/badge/SITIO%20WEB-3C444F?style=for-the-badge&logo=searxng&logoColor=white"></a>
 				</p>
-				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://raw.githubusercontent.com/fcomontsep/portafolio-js-landing-coctel/refs/heads/main/preview/miniaturas.jpg" width="400"></a>
+				<a href="https://fcomontsep.github.io/portafolio-js-landing-coctel/" target="_blank"><img src="https://i.imgur.com/0AJVRup.jpg" width="400"></a>
 				<br><br>
 				<p>Página de aterrizaje para un sitio de coctelero.
 				<br>HTML, CSS, JS, responsivo. Desplegado en GitHub Pages.</p>                                                     
