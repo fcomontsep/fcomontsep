@@ -45,7 +45,6 @@
         <img src="https://img.shields.io/badge/laravel/BLADE-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
         <img src="https://img.shields.io/badge/django-%23064B35.svg?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/tailwind-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/livewire-%234C53A1.svg?style=for-the-badge&logo=livewire&logoColor=white">
       </td>
     </tr>
   </table>
