@@ -1,17 +1,15 @@
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
-      <h1> ¡ Hola, soy <a href="https://www.linkedin.com/in/fcomontsep/">Francisco Montenegro</a>  ! 💻💾👋  </h1>
+      <h1> Hola, soy <a href="https://www.linkedin.com/in/fcomontsep/">Francisco Montenegro</a> 💻💾👋.  </h1>
     </summary>
   </ul>
 </div>
 
 <div align="justify">
-  Soy un Ingeniero Informático con interés en la administración de datos y desarrollo de sistemas, graduado el año 2024 de la Universidad de Playa Ancha. Durante los últimos años me he perfeccionado profesionalmente en campos asociados a la computación.</p>
-  
-  Mis experiencias incluyen distintos proyectos tanto individuales como colaborativos, incluyendo el desarrollo de **tableros estadísticos**, clasificación de radiografías con **aprendizaje automático** y desarrollo **full stack** de sistemas asociados a la recuperación de suelos contaminados. Soy creativo a la hora de resolver problemas, y cuento con afinidad al trabajo en equipo y liderazgo.
-  
-  En esta página encontrarás distintos trabajos y proyectos que he **realizado y registrado en la plataforma GitHub**.
+Ingeniero Informático con interés en oportunidades laborales de administración, análisis y reporte de datos, y  desarrollo de sistemas y soluciones, con habilidades creativas, de colaboración, trabajo en equipo y liderazgo.<br><br>
+	
+En esta página encontrarás distintos trabajos y proyectos que he **realizado y registrado en la plataforma GitHub**.
 </div>
 
 <hr>
